@@ -1,0 +1,17 @@
+
+ intVar1 = 4 and intVar2 = 5 
+
+ Expression values are:
+ exp1 = 6 
+ exp2 = 24 
+
+ intVar3 = 5 and intVar4 = 9 
+
+ Expression values are:
+ exp3 = 1 
+ exp4 = 47 
+
+ charVar = H ASCII value: 72 
+
+ charVar = h ASCII value: 104 
+ 
